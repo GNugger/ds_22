@@ -12,7 +12,7 @@ print(list2)
 print(list3)
 print(list4)
 
-# print(list2[1] + " " + str(list4[0])) # gemon att avända str(listX[0]) där index är INT så konverterar det om INT till STR
+# print(list2[1] + " " + str(list4[0])) # gemon att avända str(listX[0]) där index är INT så konverterar det om INT till STR kallas för type casting!
 # print(list2[1], list4[1]) # skrivs bara ut vad indexen har med komma täcken 
 
 lenght = len(list2)
