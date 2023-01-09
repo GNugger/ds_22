@@ -18,6 +18,7 @@ while True:
         continue
 
     if guess == "exit":
+        print("Din score blev:", score,"total")
         print("Tack för att du spelade")
         break
 
