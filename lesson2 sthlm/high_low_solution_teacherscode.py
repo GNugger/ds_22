@@ -10,7 +10,7 @@ score = 0
 random_num = random.randint(min, max)
 
 while True:
-    print("Ditt nummer är: ", random_num)
+    print("Ditt nummer är: ", random_num) 
 
     guess = input("Vad är din gissning högre eller lägre? (h/l) (exit): ")
 
